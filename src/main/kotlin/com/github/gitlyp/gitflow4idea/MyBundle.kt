@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.gitlyp.gitflow4idea
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls
